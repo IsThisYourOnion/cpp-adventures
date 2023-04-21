@@ -37,8 +37,8 @@ void askYesOrNoQuestion()
     printResponse(answer);
 
 }
-int main()
-{
-    askYesOrNoQuestion();
-
-}
+//int main()
+//{
+//    askYesOrNoQuestion();
+//
+//}
