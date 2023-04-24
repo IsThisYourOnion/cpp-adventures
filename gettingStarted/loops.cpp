@@ -18,12 +18,12 @@ using namespace std;
 
 // for
 
-int main()
-{
-    for (int i = 0; i <= 10; i++) {
-        for(int j = 0; j <= 50; j++){
-            cout << "i = " << i << ", j = "<< j << endl;
-        }
-    }
-    cin.get();
-}
+//int main()
+//{
+//    for (int i = 0; i <= 10; i++) {
+//        for(int j = 0; j <= 50; j++){
+//            cout << "i = " << i << ", j = "<< j << endl;
+//        }
+//    }
+//    cin.get();
+//}
