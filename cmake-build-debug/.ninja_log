@@ -1,0 +1,23 @@
+# ninja log v5
+8	356	1682206207251668931	CMakeFiles/cpp_adventures.dir/gettingStarted/aliasing.cpp.o	b794985621392a01
+0	57	1682206309480891124	build.ninja	336e8cce81dccd6a
+8	350	1682110084764030164	CMakeFiles/cpp_adventures.dir/gettingStarted/loops.cpp.o	f31693b9fd22a504
+8	484	1682108117238969208	CMakeFiles/cpp_adventures.dir/gettingStarted/playingWithFunctions.cpp.o	4af013f18fb0ae16
+413	462	1682206271981905968	cpp_adventures	be95c6d700ab6647
+12	413	1682206271930762241	CMakeFiles/cpp_adventures.dir/gettingStarted/arrays.cpp.o	c281d545fa7f8d4c
+8	358	1682206207253967910	CMakeFiles/cpp_adventures.dir/gettingStarted/arrays.cc.o	9bac7bdec70788c5
+8	360	1682034402556659188	CMakeFiles/cpp_adventures.dir/gettingStarted/helloWorld.cpp.o	10c5a8ab48f88107
+8	424	1682206402146356332	CMakeFiles/cpp_adventures.dir/gettingStarted/arrayPlay.cpp.o	a40c666ba5951b48
+424	473	1682206402197635805	cpp_adventures	2e8a6443f6451083
+5	442	1682206486342168345	CMakeFiles/cpp_adventures.dir/gettingStarted/arrayPlay.cpp.o	a40c666ba5951b48
+442	494	1682206486396640730	cpp_adventures	2e8a6443f6451083
+8	353	1682206517468430218	CMakeFiles/cpp_adventures.dir/gettingStarted/arrayPlay.cpp.o	a40c666ba5951b48
+353	399	1682206517516747522	cpp_adventures	2e8a6443f6451083
+4	349	1682206526467795261	CMakeFiles/cpp_adventures.dir/gettingStarted/arrayPlay.cpp.o	a40c666ba5951b48
+349	396	1682206526516622551	cpp_adventures	2e8a6443f6451083
+8	355	1682206534473037571	CMakeFiles/cpp_adventures.dir/gettingStarted/arrayPlay.cpp.o	a40c666ba5951b48
+355	402	1682206534521617201	cpp_adventures	2e8a6443f6451083
+8	349	1682206551809625473	CMakeFiles/cpp_adventures.dir/gettingStarted/arrayPlay.cpp.o	a40c666ba5951b48
+349	395	1682206551857807530	cpp_adventures	2e8a6443f6451083
+8	351	1682206590262280927	CMakeFiles/cpp_adventures.dir/gettingStarted/arrayPlay.cpp.o	a40c666ba5951b48
+352	398	1682206590310568981	cpp_adventures	2e8a6443f6451083
